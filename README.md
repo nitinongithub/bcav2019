@@ -1,2 +1,2 @@
 # bcav2019
-This repository is to share abstract data Software Engineering.
+This repository is to share abstract data related to Software Engineering.
